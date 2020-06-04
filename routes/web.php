@@ -16,4 +16,7 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('home');
 });
+Route::get('/search-data',function () {
+    return view('autocomplete');
+});
 Route::get('index','SearchController@search');

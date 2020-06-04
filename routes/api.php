@@ -21,3 +21,7 @@ Route::get('/search', [
     'as' => 'api.search',
     'uses' => 'Api\SearchController@search'
 ]);
+Route::post('/autocomplete', [
+    'as' => 'api.autocomplete',
+    'uses' => 'Api\SearchController@autocomplete'
+]);

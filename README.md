@@ -44,4 +44,4 @@ now open your .env file and paste id and secret key like as bellow:
     
 for run the project
 
-     php artisan ser
+     php artisan server

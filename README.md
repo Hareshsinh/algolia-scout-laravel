@@ -59,3 +59,41 @@ now open your .env file and paste id and secret key like as bellow:
 for run the project
 
      php artisan serve
+    
+     http:://127.0.0.1::[your_port]/index (datatable seach) 
+        
+     http:://127.0.0.1::[your_port]/search-data (autocomplate seach)
+        
+## Kye points before using this feature
+
+    Please check env file in which you have to define app id and secret key.
+    
+    Review app/Contact.php file.
+    
+    Review app/Http/controller/SearchController.php file.
+    
+## ScreenShots    
+
+## datatable scout - algolia search
+![Screenshot](screenshots/datatable.png)
+
+## autocomplete algolia search
+![Screenshot](screenshots/autocomplite.png)
+![Screenshot](screenshots/autocomplite-priview.png)
+
+
+## Contributing
+
+Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
+
+## Security
+
+If you discover any security-related issues, please email vishal@viitorcloud.com or haresh.sisodiya@viitor.cloud instead of using the issue tracker.
+
+## Credits
+
+- [Haresh Sisodiya](https://github.com/Hareshsinh)
+
+## License
+
+The MIT License (MIT). Please see [License File](LICENSE.md) for more information.

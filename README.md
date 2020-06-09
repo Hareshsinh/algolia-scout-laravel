@@ -54,8 +54,8 @@ now open your .env file and paste id and secret key like as bellow:
     
  If you have already added few records on your table then you can index that records by run following command:
  
-    php artisan scout:import "app\Contact" 
+    php artisan scout:import "App\Contact" 
     
 for run the project
 
-     php artisan server
+     php artisan serve

@@ -3,14 +3,14 @@
 <head>
 
     <meta charset="utf-8">
-    <title>Laravel Scout Search Tutorial</title>
+    <title>Laravel scout - algolia search</title>
     <link rel="stylesheet" href="{{asset('css/app.css')}}">
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
 </head>
 
 <body>
 <div class="container">
-    <h1>Laravel Scout Search Tutorial</h1>
+    <h1>Laravel scout - algolia search</h1>
     <form method="GET" action="{{ url('index') }}">
         <div class="row">
             <div class="col-md-6">

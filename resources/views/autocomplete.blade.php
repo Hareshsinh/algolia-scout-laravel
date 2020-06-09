@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Make Autocomplete search using jQuery UI in Laravel</title>
+    <title>Autocomplete Search!</title>
 
     <!-- Meta -->
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -18,7 +18,7 @@
 </head>
 <body>
 <div class="container">
-    <h1>Autocomplete Search with Laravel Scout!</h1>
+    <h1>Autocomplete Search!</h1>
     <!-- For defining autocomplete -->
     <input type="text"  class="form-control" id='employee_search'>
 

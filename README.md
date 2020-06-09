@@ -2,7 +2,7 @@
 
 ## Introduction
 Algolia helps businesses across industries quickly create relevant, scalable, and lightning fast Search and Discovery experiences [algolia](https://www.algolia.com/).
-This application is show to you like how to seach data using algolia in laravel
+This application is show to how to seach data using algolia in laravel
   
 ## Installation
 

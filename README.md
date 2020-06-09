@@ -60,9 +60,9 @@ for run the project
 
      php artisan serve
     
-     http:://127.0.0.1::[your_port]/index (datatable seach) 
+     http:://127.0.0.1::[your_port]/index (datatable search) 
         
-     http:://127.0.0.1::[your_port]/search-data (autocomplate seach)
+     http:://127.0.0.1::[your_port]/search-data (autocomplate search)
         
 ## Kye points before using this feature
 
